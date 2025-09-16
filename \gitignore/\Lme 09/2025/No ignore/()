@@ -1,0 +1,38 @@
+log*.html
+
+* Idea
+* Xcode proJ
+* VS_code
+* Cache
+* Zig_Cache
+
+ * profile_Fuzz_Results
+ *Test_Fuzz_out
+ *Test_Fixtures_Grammars
+ *Test_Fixtures_Grammars
+
+{(Git•Keep)}
+
+{(Node_Modules)}:
+ - "docs"
+ - "Assets",
+ - "JS"
+∆ Tree_Sitter.js ∆
+
+tree-sitter pc/target
+* rs.bk
+* a
+* dylib
+* so
+* so[0-9]*
+* dll
+* o
+* obj
+* exp
+* lib
+* Wasm
+* swift {nmp} buil
+build zig />
+
+
+
